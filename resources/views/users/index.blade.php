@@ -30,7 +30,7 @@
                             <x-slot name="header">
                                 <tr>
                                     <th class="text-center">#</th>
-                                    <th class="text-start">Nama Pengguna</th>
+                                    <th class="text-start">Name</th>
                                     <th class="text-start">Email</th>
                                     <th class="text-start">Jabatan</th>
                                     <th class="text-center">Tanggal Bergabung</th>
