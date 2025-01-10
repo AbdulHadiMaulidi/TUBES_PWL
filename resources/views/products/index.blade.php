@@ -30,10 +30,10 @@
                         <x-slot name="header">
                             <tr>
                                 <th class="text-center" scope="col">#</th>
-                                <th class="text-start" scope="col">Nama Barang</th>
+                                <th class="text-start" scope="col">Product Name</th>
                                 <td class="text-start" scope="col">SKU</th>
-                                <th class="text-center" scope="col">Harga</th>
-                                <th class="text-center" scope="col">Stok</th>
+                                <th class="text-center" scope="col">Price</th>
+                                <th class="text-center" scope="col">Stock</th>
                                 <th class="text-center" scope="col">Cabang</th>
                             </tr>
                         </x-slot>
