@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            {{ __('Daftar Transaksi') }}
+            {{ __('List Transaksi') }}
         </h2>
     </x-slot>
 
@@ -30,10 +30,10 @@
                             <x-slot name="header">
                                 <tr>
                                     <th class="text-center">#</th>
-                                    <th class="text-start">Nama Kasir</th>
-                                    <th class="text-start">Nama Barang</th>
-                                    <th class="text-center">Jumlah</th>
-                                    <th class="text-start">Harga</th>
+                                    <th class="text-start">Name</th>
+                                    <th class="text-start">Product</th>
+                                    <th class="text-center">Quantity</th>
+                                    <th class="text-start">Price</th>
                                     <th class="text-start">SubTotal</th>
                                 </tr>
                             </x-slot>
