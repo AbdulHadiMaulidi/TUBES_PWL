@@ -25,11 +25,11 @@
                         <x-slot name="header">
                             <tr>
                                 <th class="text-center" scope="col">No</th>
-                                <th class="text-start" scope="col">Nama Pegawai</th>
-                                <th class="text-start" scope="col">Barang</th>
-                                <th class="text-center" scope="col">Tipe</th>
-                                <th class="text-center" scope="col">Jumlah</th>
-                                <th class="text-center" scope="col">Tanggal</th>
+                                <th class="text-start" scope="col">Name</th>
+                                <th class="text-start" scope="col">Product</th>
+                                <th class="text-center" scope="col">Type</th>
+                                <th class="text-center" scope="col">Quantity</th>
+                                <th class="text-center" scope="col">Date</th>
                             </tr>
                         </x-slot>
 
